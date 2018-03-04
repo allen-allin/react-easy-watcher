@@ -3,12 +3,9 @@
     "version": "1.0.0",
     "description": "watch state changes in react.js,just like the watcher api in vue.js",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zysallen/react-easy-watcher.git"
+        "url": "https://github.com/zysallen/react-easy-watcher.git"
     },
     "keywords": [
         "react",
@@ -18,7 +15,7 @@
     ],
     "dependencies": {
         "lodash": "^4.17.5",
-        "react": "^16.2.0",
+        "react": "^16.2.0"
     },
     "author": "zysallen",
     "license": "MIT",
