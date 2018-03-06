@@ -1,6 +1,6 @@
 {
   "name": "react-easy-watcher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "watch state changes in react.js,just like the watcher api in vue.js",
   "main": "lib/index.js",
   "scripts": {
