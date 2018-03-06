@@ -23,9 +23,10 @@ npm install react-easy-watcher --save
 
 
 ```js
+import React, { Component } from 'react';
 import watcher from 'react-easy-watcher';
 
-class Hello extends React.PureComponent {
+class Hello extends Component {
     constructor(props) {
         super(props)
         this.state = {
