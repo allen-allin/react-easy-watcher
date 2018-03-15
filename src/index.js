@@ -1,6 +1,7 @@
 import React,{Component} from 'react'
 import isEqual from 'lodash.isequal'
 
+
 const watcher = (Comp) => {
     const didUpdate = Comp.prototype.componentDidUpdate
     return class extends Comp {
